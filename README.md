@@ -50,7 +50,7 @@ Use position and rotation, it moves or rotates the whole model without the Cubes
 
 Star:
 
-Use positio and rotation, moves the “floor”, move the Cubes of the legs.
+Use position and rotation, moves the “floor”, move the Cubes of the legs.
 
 ![Star](https://user-images.githubusercontent.com/125750057/236723924-fdea0432-4f86-4861-b0f0-4c7fb40fdc5d.png)
 ![Star](https://user-images.githubusercontent.com/125750057/236852889-75418b45-da96-4f47-9f28-046f03e08eab.gif)
