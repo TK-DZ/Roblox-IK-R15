@@ -84,6 +84,10 @@ I set 60 fps default, but you can change going to the output properties, frame r
 
 Now move the bones and set the frame to make the animation.
 
+Example:
+
+![Blender](https://user-images.githubusercontent.com/125750057/236730077-8f32006a-1ee7-4619-89f5-afc72b62231b.gif)
+
 # Exporting the Animation.
 
 When you finished your animation, press  “N” on the keyboard and select the RbxAnimations tab, if you don't see this tab, try to reinstall the add-on.
