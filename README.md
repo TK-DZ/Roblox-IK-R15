@@ -84,7 +84,7 @@ I set 60 fps default, but you can change going to the output properties, frame r
 
 Now move the bones and set the frame to make the animation.
 
-Example:
+Example:(Old model)
 
 ![Blender](https://user-images.githubusercontent.com/125750057/236730077-8f32006a-1ee7-4619-89f5-afc72b62231b.gif)
 
