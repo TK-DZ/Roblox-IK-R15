@@ -88,6 +88,8 @@ I set 60 fps default, but you can change going to the output properties, frame r
 ![framerate](https://user-images.githubusercontent.com/125750057/236726753-037dd4bb-e96f-4529-9672-cff428439db9.png)
 
 Now move the bones and set the frame to make the animation.
+If you want to return to the original rotate or position, you can use Alt+G reset position of selected bone or Alt+R reset rotation of selected bone
+The white thing on the head of the rig is the face.
 
 Example:(Old model)
 
@@ -97,6 +99,9 @@ Example:(Old model)
 
 When you finished your animation, press  “N” on the keyboard and select the RbxAnimations tab, if you don't see this tab, try to reinstall the add-on.
 and press “Export Animation”.
+
+![Export](https://user-images.githubusercontent.com/125750057/236920691-831802c0-ac1e-45f3-ae58-9ad6eb6d90fc.png)
+
 
 Now you can close the Blender and open the Roblox Studio
 
