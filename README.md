@@ -32,30 +32,35 @@ Let's start with the IcoSphere:
 Use only position, and it rotates the bone that is connected(UpperArm, UpperLeg) based on the position of the IcoSphere and only rotates on the Z
 
 ![icosphere](https://user-images.githubusercontent.com/125750057/236720350-80194a15-cf55-4d73-8089-ede4553cc145.png)
+![IcoSphere](https://user-images.githubusercontent.com/125750057/236846401-7d841982-7349-4dbb-91b0-e5317e5a04af.gif)
 
 Cube:
 
 Use only position, and it rotates the bones of the Upper, Lower and Foot/Hand. Based on the position of the Cube and move to “all” the directions.
 
 ![Cube](https://user-images.githubusercontent.com/125750057/236722421-a66f7eb1-f267-4acb-91db-530321b67ec5.png)
+![Cube](https://user-images.githubusercontent.com/125750057/236850442-39539270-2656-43c1-b3d6-15a0f12bd209.gif)
 
 Diamond:
 
 Use position and rotation, it moves or rotates the whole model without the Cubes of the legs.
 
 ![Diamond](https://user-images.githubusercontent.com/125750057/236723222-2cfd080f-dfd8-453c-8657-136c4e7f85f9.png)
+![Diamond](https://user-images.githubusercontent.com/125750057/236850882-95045264-bc8c-4ad1-8d38-7d261dcb8fe6.gif)
 
 Star:
 
-Use only position, moves the “floor”, move the Cubes of the legs.
+Use positio and rotation, moves the “floor”, move the Cubes of the legs.
 
 ![Star](https://user-images.githubusercontent.com/125750057/236723924-fdea0432-4f86-4861-b0f0-4c7fb40fdc5d.png)
+![Star](https://user-images.githubusercontent.com/125750057/236852889-75418b45-da96-4f47-9f28-046f03e08eab.gif)
 
 SemiSphere:
 
 Use only rotation, it rotates the LowerArm based on the rotation of the SemiSphere
 
 ![SemiSphere](https://user-images.githubusercontent.com/125750057/236724212-50c6a16b-8126-4d31-be06-f0fc1c4cfbe3.png)
+![SemiSphere](https://user-images.githubusercontent.com/125750057/236852916-c6299130-c9c4-4f36-aa7a-2dad7e99a2f5.gif)
 
 Don't try to move the position of LowerArm.
 
